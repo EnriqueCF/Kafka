@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: bicimad
+bicimad:
+  url: https://openapi.emtmadrid.es/v1/transport/bicimad/stations
+kafka:
+  boostrap-servers: localhost:9092
